@@ -22,10 +22,4 @@ FROM patients;
 ✅ Output:<img width="1920" height="1080" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/65461040-03b8-43c9-9472-bf2ff7afcc38" />
 
 
-SERVICE
-emergency
-surgery
-ICU
-general_medicine
-
 #IDCWithSQL | @DPDzero | @indiandataclub
